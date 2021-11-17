@@ -1,0 +1,3 @@
+Zeichenkette=input('Bitte geben sie ein Bitmuster mit max. 32 Zeichen ein: ','s');
+Zahl = bit2dez(Zeichenkette);
+fprintf('Die zugehörige dezimal Zahl lautet: %g \n',Zahl)
